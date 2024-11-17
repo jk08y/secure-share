@@ -3,9 +3,16 @@
 A secure, self-hosted file sharing solution with automatic file expiration and encryption. Upload files easily and share them with secure, time-limited download links.
 
 ## Demo
-
+### Home page
 ![Home Page](https://raw.githubusercontent.com/jk08y/secure-share/refs/heads/main/screenshots/Screenshot%20from%202024-11-18%2000-50-26.png)
+
+### Link Generation page (Loaded after upoading)
+
 ![After Uploading](https://raw.githubusercontent.com/jk08y/secure-share/refs/heads/main/screenshots/Screenshot%20from%202024-11-18%2000-50-34.png)
+
+### File Download Page
+- Includes a feature to preview the file youre about to download. Size,expiry, date and preview
+
 ![Download Page](https://raw.githubusercontent.com/jk08y/secure-share/refs/heads/main/screenshots/Screenshot%20from%202024-11-18%2000-51-00.png)
 
 ## Features
