@@ -117,5 +117,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-[@jk08y](https://github.com/jk08y)
-[𝕏](https://x.com/jk08y)
+-  𝕏: [@jk08y](https://x.com/jk08y)
+- GitHub: [@jk08y](https://github.com/jk08y)
