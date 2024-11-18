@@ -45,7 +45,7 @@ A secure, self-hosted file sharing solution with automatic file expiration and e
 1. Clone the repository:
 ```bash
 git clone https://github.com/jk08y/secure-share.git
-cd SecureShare
+cd secure-share
 ```
 
 2. Create a MySQL database and update the configuration in `config.php`:
