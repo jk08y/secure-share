@@ -1,4 +1,5 @@
 <?php
+// db
 require_once 'config.php';
 
 function displayError($message) {
