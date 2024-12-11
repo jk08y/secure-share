@@ -259,7 +259,7 @@ function formatFileSize($bytes) {
             updateFilePreview();
         }
 
-        // File input handling
+        // File input & type handling
         fileInput.addEventListener('change', updateFilePreview);
 
         function updateFilePreview() {
