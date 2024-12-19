@@ -17,14 +17,14 @@ A secure, self-hosted file sharing solution with automatic file expiration and e
 
 ## Features
 
-- 🔒 Secure file sharing with automatic encryption
-- ⏰ Automatic file expiration (24 hours, 7 days, or 30 days)
-- 📊 File upload progress tracking
-- 🎯 Drag and drop file upload interface
-- 📝 Detailed file preview page
-- 📱 Responsive design
-- 🔗 Secure download links
-- 📈 Download tracking
+-  Secure file sharing with automatic encryption
+-  Automatic file expiration (24 hours, 7 days, or 30 days)
+-  File upload progress tracking
+-  Drag and drop file upload interface
+-  Detailed file preview page
+-  Responsive design
+-  Secure download links
+-  Download tracking
 
 ## Supported File Types
 
