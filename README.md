@@ -122,7 +122,7 @@ Edit `config.php` to customize:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
+### Author
 
 -  𝕏: [@jk08y](https://x.com/jk08y)
 - GitHub: [@jk08y](https://github.com/jk08y)
