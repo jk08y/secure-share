@@ -118,7 +118,7 @@ Edit `config.php` to customize:
 - Maximum file size is enforced
 - Database queries are prepared to prevent SQL injection
 
-## License
+### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
