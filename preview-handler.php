@@ -5,7 +5,7 @@
  * This script handles secure file downloads based on unique download codes.
  * It verifies the download code, checks file existence and expiration,
  * and streams the file to the user with appropriate headers.
- * 
+ 
  * Dependencies:
  * - config.php: Contains database connection and APP_CONFIG settings
  * - Requires a 'files' table with columns: download_code, filename, mime_type, expires_at
