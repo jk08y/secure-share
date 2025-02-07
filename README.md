@@ -116,7 +116,7 @@ Edit `config.php` to customize:
 - Download links are randomly generated and secured
 - File extensions are validated
 - Maximum file size is enforced
-- Database queries are prepared to prevent SQL injection
+- Database queries are prepared to prevent SQL injection  
 
 ### License
 
