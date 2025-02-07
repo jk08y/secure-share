@@ -100,7 +100,7 @@ Edit `config.php` to customize:
 - Upload directory path
 - Database settings
 - Expiration options
-- Base URL
+- Base URL  
 
 ## Contributing
 
