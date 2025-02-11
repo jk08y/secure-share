@@ -14,7 +14,7 @@ function displayError($message) {
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
 
-    </head>
+   </head>
     <body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen flex items-center justify-center">
         <div class="max-w-md w-full mx-4">
             <div class="bg-white rounded-xl shadow-xl p-8 text-center">
